@@ -1,0 +1,202 @@
+[
+    {
+        "month": "01",
+        "year": "2023",
+        "alarms_count": 120,
+        "categories": {
+            "high": 48,
+            "medium": 56,
+            "low": 27
+        }
+    },
+    {
+        "month": "12",
+        "year": "2022",
+        "alarms_count": 174,
+        "categories": {
+            "high": 138,
+            "medium": 32,
+            "low": 138
+        }
+    },
+    {
+        "month": "11",
+        "year": "2022",
+        "alarms_count": 173,
+        "categories": {
+            "high": 114,
+            "medium": 48,
+            "low": 8
+        }
+    },
+    {
+        "month": "10",
+        "year": "2022",
+        "alarms_count": 135,
+        "categories": {
+            "high": 104,
+            "medium": 9,
+            "low": 90
+        }
+    },
+    {
+        "month": "09",
+        "year": "2022",
+        "alarms_count": 192,
+        "categories": {
+            "high": 192,
+            "medium": 0,
+            "low": 84
+        }
+    },
+    {
+        "month": "08",
+        "year": "2022",
+        "alarms_count": 199,
+        "categories": {
+            "high": 148,
+            "medium": 20,
+            "low": 89
+        }
+    },
+    {
+        "month": "07",
+        "year": "2022",
+        "alarms_count": 111,
+        "categories": {
+            "high": 71,
+            "medium": 24,
+            "low": 46
+        }
+    },
+    {
+        "month": "06",
+        "year": "2022",
+        "alarms_count": 106,
+        "categories": {
+            "high": 95,
+            "medium": 5,
+            "low": 13
+        }
+    },
+    {
+        "month": "05",
+        "year": "2022",
+        "alarms_count": 180,
+        "categories": {
+            "high": 175,
+            "medium": 5,
+            "low": 90
+        }
+    },
+    {
+        "month": "04",
+        "year": "2022",
+        "alarms_count": 122,
+        "categories": {
+            "high": 115,
+            "medium": 4,
+            "low": 98
+        }
+    },
+    {
+        "month": "03",
+        "year": "2022",
+        "alarms_count": 185,
+        "categories": {
+            "high": 30,
+            "medium": 149,
+            "low": 2
+        }
+    },
+    {
+        "month": "02",
+        "year": "2022",
+        "alarms_count": 126,
+        "categories": {
+            "high": 44,
+            "medium": 4,
+            "low": 9
+        }
+    },
+    {
+        "month": "01",
+        "year": "2022",
+        "alarms_count": 192,
+        "categories": {
+            "high": 124,
+            "medium": 67,
+            "low": 55
+        }
+    },
+    {
+        "month": "12",
+        "year": "2021",
+        "alarms_count": 133,
+        "categories": {
+            "high": 23,
+            "medium": 86,
+            "low": 5
+        }
+    },
+    {
+        "month": "11",
+        "year": "2021",
+        "alarms_count": 146,
+        "categories": {
+            "high": 136,
+            "medium": 10,
+            "low": 134
+        }
+    },
+    {
+        "month": "10",
+        "year": "2021",
+        "alarms_count": 150,
+        "categories": {
+            "high": 150,
+            "medium": 0,
+            "low": 89
+        }
+    },
+    {
+        "month": "09",
+        "year": "2021",
+        "alarms_count": 170,
+        "categories": {
+            "high": 35,
+            "medium": 36,
+            "low": 44
+        }
+    },
+    {
+        "month": "08",
+        "year": "2021",
+        "alarms_count": 108,
+        "categories": {
+            "high": 49,
+            "medium": 7,
+            "low": 94
+        }
+    },
+    {
+        "month": "07",
+        "year": "2021",
+        "alarms_count": 185,
+        "categories": {
+            "high": 114,
+            "medium": 44,
+            "low": 59
+        }
+    },
+    {
+        "month": "06",
+        "year": "2021",
+        "alarms_count": 190,
+        "categories": {
+            "high": 148,
+            "medium": 14,
+            "low": 60
+        }
+    }
+]
