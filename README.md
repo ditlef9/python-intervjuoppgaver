@@ -43,6 +43,13 @@ som inneholder antall alarmer per måned.
 Parse denne json-filen og lag de to grafene. Svaret kan skrives til en 
 HTML-fil. 
 
+Du står fritt til å velge rammeverk. Hvis du ikke har en favoritt, kan du 
+f.eks. titte på 
+[matplotlib](https://matplotlib.org/):
+* [Basic plots](https://matplotlib.org/stable/plot_types/basic/index.html)
+* [Statistics plots](https://matplotlib.org/stable/plot_types/stats/index.html)
+
+
 Benytt Python eller Kotlin.
 
 ## Alternativ 2
